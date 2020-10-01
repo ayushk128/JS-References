@@ -195,6 +195,6 @@ firstContainer.addEventListener("click", function () {
 // firstContainer.addEventListener('mouseup', function(){
 //     console.log("Mouse up container");
 // })
-// firstContainer.addEventListener('mousedown', function(){
-//     console.log("Mouse down the container");
-// })
+firstContainer.addEventListener('mousedown', function(){
+    console.log("Mouse down the container");
+})
